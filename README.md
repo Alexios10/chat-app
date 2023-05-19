@@ -18,8 +18,5 @@
 - Conditional classes with clsx
 - Variants with class-variance-authority
 
-## Acknowledgements
-
-- [Awesome Button UI Component](https://ui.shadcn.com/)
-
+Demo : https://chat-app-beta-navy.vercel.app/login
 
