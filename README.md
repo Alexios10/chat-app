@@ -4,12 +4,12 @@ FriendZone is a web application built with Next.js, React.js, TypeScript, Upstas
 
 ## Technologies Used
 
-- **Next.js**: A React framework for building server-rendered and statically generated applications.
-- **React.js**: A JavaScript library for building user interfaces.
-- **TypeScript**: A typed superset of JavaScript that enhances the development experience and helps catch errors early.
-- **Upstash Redis**: A cloud-based, fully-managed Redis database for caching and real-time data synchronization.
-- **Tailwind CSS**: A utility-first CSS framework that allows for rapid UI development.
-- **NextAuth.js**: A library for authentication in Next.js applications, enabling users to log in using various providers such as Google and GitHub.
+- **Next.js**
+- **React.js**
+- **TypeScript**
+- **Upstash Redis**
+- **Tailwind CSS**
+- **NextAuth.js**
 
 ## Key Features
 
