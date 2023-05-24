@@ -1,6 +1,6 @@
 # FriendZone - Connect and Socialize with Friends
 
-FriendZone is a web application built with Next.js, React.js, TypeScript, Upstash Redis, Tailwind CSS, and NextAuth.js. It aims to provide users with a platform to connect and socialize with friends. With FriendZone, users can create an account, add friends, share updates, and engage in meaningful conversations.
+FriendZone is a web application built with Next.js, React.js, TypeScript, Upstash Redis, Tailwind CSS, and NextAuth.js. It aims to provide users with a platform to connect and socialize with friends. With FriendZone, users can create an account, add friends, share updates and engage in meaningful conversations.
 
 ## Technologies Used
 
